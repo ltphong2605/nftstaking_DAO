@@ -1,0 +1,1 @@
+export const bannerVideoUrl = "https://www.youtube.com/embed/9NDqyU_Y0FM?controls=0&rel=0&playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fcoolbeez.xyz&widgetid=1";
